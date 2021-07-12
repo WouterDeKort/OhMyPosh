@@ -33,28 +33,18 @@
           "powerline_symbol": "\uE0B0",
           "foreground": "#1a1a1a",
           "background": "#e0a500",
-          "properties" : {
-              "home_icon": "\uF7DB",
-              "folder_icon": "\uF115",
-              "style": "full"
+          "properties": {
+            "home_icon": "\uF7DB",
+            "folder_icon": "\uF115",
+            "style": "full"
           }
         },
         {
-          "type": "git",
+          "type": "poshgit",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#1a1a1a",
           "background": "#007ee6"
-        },
-        {
-          "type": "python",
-          "style": "powerline",
-          "powerline_symbol": "\uE0B0",
-          "foreground": "#1a1a1a",
-          "background": "#916dff",
-          "properties": {
-            "prefix": " \uE235 "
-          }
         },
         {
           "type": "exit",
